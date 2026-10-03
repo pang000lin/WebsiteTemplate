@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a comprehensive platform for robotics enthusiasts, featuring eight informative pages that showcase projects, tutorials, and community resources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
